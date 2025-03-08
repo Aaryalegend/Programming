@@ -1,0 +1,1 @@
+{"name":"Local: e","url":"/home/aryan/Documents/Programming/codeforces/start171d/e.cpp","tests":[{"id":1738165865660,"input":"2\n6 2\n4 0 6 2 8 0\n6 3\n4 0 6 2 8 0","output":"2 0 3 3 4 0 \n2 0 2 2 3 0 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/aryan/Documents/Programming/codeforces/start171d/e.cpp","group":"local","local":true}
