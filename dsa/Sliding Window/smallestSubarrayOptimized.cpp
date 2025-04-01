@@ -13,7 +13,6 @@ int minSubArrayLen(int S, vector<int>& arr) {
             left++;
         }
     }
-
     return (minLength == INT_MAX) ? 0 : minLength;
 }
 

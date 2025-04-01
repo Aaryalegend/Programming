@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SwapXOR",
+            "request": "launch",
+            "mainClass": "SwapXOR",
+            "projectName": "Programming_28494c7"
+        },
+        {
+            "type": "java",
+            "name": "Functions",
+            "request": "launch",
+            "mainClass": "Functions",
+            "projectName": "Programming_28494c7"
+        },
+        {
+            "type": "java",
+            "name": "Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "Programming_28494c7"
+        },
+        {
+            "type": "java",
+            "name": "Inputs",
+            "request": "launch",
+            "mainClass": "Inputs",
+            "projectName": "Programming_28494c7"
+        },
+        {
+            "type": "java",
+            "name": "Primitives",
+            "request": "launch",
+            "mainClass": "Primitives",
+            "projectName": "Programming_28494c7"
+        },
+        {
+            "type": "java",
             "name": "ChatServer",
             "request": "launch",
             "mainClass": "myjava.ChatServer",
